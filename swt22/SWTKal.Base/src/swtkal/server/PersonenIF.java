@@ -25,10 +25,7 @@ import java.util.Vector;
  */
 
 /*----- */
-//***
-
-/* Dies ist der 8. Comment */
-=======
+//+++
 
 public interface PersonenIF
 {
