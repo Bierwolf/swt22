@@ -21,6 +21,7 @@ public class SwingClient extends Client implements ActionListener
 	{
 		new SwingClient().frame.setVisible(true);
 	}
+	//meh
 
 	protected JFrame frame;
 	protected final int INITIAL_WIDTH  = 850;
