@@ -26,7 +26,10 @@ import java.util.Vector;
 
 /*----- */
 //***
+
 /* Dies ist der 8. Comment */
+=======
+
 public interface PersonenIF
 {
 	/** This method inserts a Person object and associates it with a String password.
