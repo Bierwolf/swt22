@@ -26,6 +26,8 @@ import java.util.Vector;
 
 /*----- */
 
+//+++---+++
+
 public interface PersonenIF
 {
 	/** This method inserts a Person object and associates it with a String password.
