@@ -23,9 +23,8 @@ import java.util.Vector;
  * 
  * @author swtUser
  */
-
 /*-----22 */
-//+++
+//+++11
 
 public interface PersonenIF
 {
@@ -53,6 +52,8 @@ public interface PersonenIF
 	 * @param p the person to be updated
 	 * @throws PersonException
 	 */
+	
+	/* test */
 	public void update(Person p) throws PersonException;
 	
 	/** This method updates the associated password of a Person object.
