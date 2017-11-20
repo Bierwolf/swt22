@@ -23,8 +23,7 @@ import java.util.Vector;
  * 
  * @author swtUser
  */
-/*-----22 */
-//+++11
+//Comment
 
 public interface PersonenIF
 {
