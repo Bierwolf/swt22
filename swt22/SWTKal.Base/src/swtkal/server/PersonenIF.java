@@ -24,7 +24,7 @@ import java.util.Vector;
  * @author swtUser
  */
 
-/*----- */
+/*-----22 */
 //+++
 
 public interface PersonenIF
