@@ -23,7 +23,10 @@ import java.util.Vector;
  * 
  * @author swtUser
  */
+
 //Comment 123
+//SWT-Übung Mergekonflikt
+
 
 public interface PersonenIF
 {
